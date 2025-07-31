@@ -1,0 +1,562 @@
+[
+  {
+    "front": "Hello",
+    "back": "Hallo"
+  },
+  {
+    "front": "Yes",
+    "back": "Ja"
+  },
+  {
+    "front": "No",
+    "back": "Nein"
+  },
+  {
+    "front": "Time",
+    "back": "Zeit"
+  },
+  {
+    "front": "deeply relaxed",
+    "back": "Tiefenentspannt"
+  },
+  {
+    "front": "itself/herself",
+    "back": "Sich"
+  },
+  {
+    "front": "her",
+    "back": "Ihrem/ihren"
+  },
+  {
+    "front": "grant/take",
+    "back": "Gegönnt"
+  },
+  {
+    "front": "time out/break",
+    "back": "Die Auszeit"
+  },
+  {
+    "front": "the weeks",
+    "back": "Die Wochen"
+  },
+  {
+    "front": "last",
+    "back": "Letzten"
+  },
+  {
+    "front": "were",
+    "back": "Waren"
+  },
+  {
+    "front": "stressful",
+    "back": "Stressig"
+  },
+  {
+    "front": "went",
+    "back": "Gefahren"
+  },
+  {
+    "front": "at",
+    "back": "An"
+  },
+  {
+    "front": "North Sea",
+    "back": "Die Nordsee"
+  },
+  {
+    "front": "once",
+    "back": "Einmal"
+  },
+  {
+    "front": "sometimes",
+    "back": "Manchmal"
+  },
+  {
+    "front": "work",
+    "back": "Die Arbeit"
+  },
+  {
+    "front": "thought",
+    "back": "Gedacht"
+  },
+  {
+    "front": "again",
+    "back": "Wieder"
+  },
+  {
+    "front": "return/back",
+    "back": "Zurück"
+  },
+  {
+    "front": "into the",
+    "back": "Ins"
+  },
+  {
+    "front": "office",
+    "back": "Das Büro"
+  },
+  {
+    "front": "mood",
+    "back": "Gelaunt"
+  },
+  {
+    "front": "welcomed",
+    "back": "Begrüst"
+  },
+  {
+    "front": "eating",
+    "back": "Isst"
+  },
+  {
+    "front": "pancake",
+    "back": "Der Pfannkuchen"
+  },
+  {
+    "front": "that",
+    "back": "Dass"
+  },
+  {
+    "front": "are",
+    "back": "Gibt"
+  },
+  {
+    "front": "do",
+    "back": "Tun"
+  },
+  {
+    "front": "should",
+    "back": "Soll"
+  },
+  {
+    "front": "where",
+    "back": "Wo"
+  },
+  {
+    "front": "begin",
+    "back": "Anfangen"
+  },
+  {
+    "front": "quickly/fast",
+    "back": "Schnell"
+  },
+  {
+    "front": "still",
+    "back": "Noch"
+  },
+  {
+    "front": "mouth",
+    "back": "Der Mund"
+  },
+  {
+    "front": "further",
+    "back": "Weiteren"
+  },
+  {
+    "front": "wipes",
+    "back": "Wischt"
+  },
+  {
+    "front": "his",
+    "back": "Seine"
+  },
+  {
+    "front": "sticky",
+    "back": "Klebrigen"
+  },
+  {
+    "front": "am happy",
+    "back": "Freue"
+  },
+  {
+    "front": "happy",
+    "back": "Glücklich"
+  },
+  {
+    "front": "to see again",
+    "back": "Wiederzusehen"
+  },
+  {
+    "front": "then",
+    "back": "Dann"
+  },
+  {
+    "front": "want",
+    "back": "Wollen/möchte"
+  },
+  {
+    "front": "both",
+    "back": "Beide"
+  },
+  {
+    "front": "to see",
+    "back": "Sehen"
+  },
+  {
+    "front": "was",
+    "back": "War"
+  },
+  {
+    "front": "were",
+    "back": "Warren"
+  },
+  {
+    "front": "forward",
+    "back": "Vorwärts"
+  },
+  {
+    "front": "backward",
+    "back": "Rückwärts"
+  },
+  {
+    "front": "back",
+    "back": "Der Rücken"
+  },
+  {
+    "front": "in+das",
+    "back": "Ins"
+  },
+  {
+    "front": "book",
+    "back": "Das Buch"
+  },
+  {
+    "front": "table",
+    "back": "Der Tisch"
+  },
+  {
+    "front": "chair",
+    "back": "Der Stuhl"
+  },
+  {
+    "front": "house",
+    "back": "Das Haus"
+  },
+  {
+    "front": "car",
+    "back": "Das Auto"
+  },
+  {
+    "front": "dog",
+    "back": "Der Hund"
+  },
+  {
+    "front": "cat",
+    "back": "Die Katze"
+  },
+  {
+    "front": "water",
+    "back": "Das Wasser"
+  },
+  {
+    "front": "food",
+    "back": "Das Essen"
+  },
+  {
+    "front": "city",
+    "back": "Die Stadt"
+  },
+  {
+    "front": "Pronunciation",
+    "back": "Die Aussprache (f)"
+  },
+  {
+    "front": "the superhero",
+    "back": "der Superheld"
+  },
+  {
+    "front": "the teacher",
+    "back": "der Lehrer"
+  },
+  {
+    "front": "the holiday/vacation",
+    "back": "der Urlaub"
+  },
+  {
+    "front": "the car",
+    "back": "der Wagen"
+  },
+  {
+    "front": "the forest",
+    "back": "der Wald"
+  },
+  {
+    "front": "the peace",
+    "back": "der Frieden"
+  },
+  {
+    "front": "the sky",
+    "back": "der Himmel"
+  },
+  {
+    "front": "the wind",
+    "back": "der Wind"
+  },
+  {
+    "front": "the rain",
+    "back": "der Regen"
+  },
+  {
+    "front": "the suit",
+    "back": "der Anzug"
+  },
+  {
+    "front": "the beard",
+    "back": "der Bart"
+  },
+  {
+    "front": "the backpack",
+    "back": "der Rucksack"
+  },
+  {
+    "front": "the umbrella",
+    "back": "der Schirm"
+  },
+  {
+    "front": "the fish",
+    "back": "der Fisch"
+  },
+  {
+    "front": "the chair",
+    "back": "der Stuhl"
+  },
+  {
+    "front": "the coffee",
+    "back": "der Kaffee"
+  },
+  {
+    "front": "the mug",
+    "back": "der Becher"
+  },
+  {
+    "front": "the cake",
+    "back": "der Kuchen"
+  },
+  {
+    "front": "the plate",
+    "back": "der Teller"
+  },
+  {
+    "front": "the thought",
+    "back": "der Gedanke"
+  },
+  {
+    "front": "the plan",
+    "back": "der Plan"
+  },
+  {
+    "front": "the moon",
+    "back": "der Mond"
+  },
+  {
+    "front": "the courage",
+    "back": "der Mut"
+  },
+  {
+    "front": "the song",
+    "back": "der Gesang"
+  },
+  {
+    "front": "the bird",
+    "back": "der Vogel"
+  },
+  {
+    "front": "the queen",
+    "back": "die Königin"
+  },
+  {
+    "front": "the castle",
+    "back": "die Burg"
+  },
+  {
+    "front": "the idea",
+    "back": "die Idee"
+  },
+  {
+    "front": "the jacket",
+    "back": "die Jacke"
+  },
+  {
+    "front": "the blouse",
+    "back": "die Bluse"
+  },
+  {
+    "front": "the post office",
+    "back": "die Post"
+  },
+  {
+    "front": "the queue",
+    "back": "die Schlange"
+  },
+  {
+    "front": "the time",
+    "back": "die Zeit"
+  },
+  {
+    "front": "the newspaper",
+    "back": "die Zeitung"
+  },
+  {
+    "front": "the clock",
+    "back": "die Uhr"
+  },
+  {
+    "front": "the sausage",
+    "back": "die Wurst"
+  },
+  {
+    "front": "the region",
+    "back": "die Region"
+  },
+  {
+    "front": "the credit card",
+    "back": "die Kreditkarte"
+  },
+  {
+    "front": "the bag",
+    "back": "die Tasche"
+  },
+  {
+    "front": "the door",
+    "back": "die Tür"
+  },
+  {
+    "front": "the garage",
+    "back": "die Garage"
+  },
+  {
+    "front": "the limousine",
+    "back": "die Limousine"
+  },
+  {
+    "front": "the banana",
+    "back": "die Banane"
+  },
+  {
+    "front": "the engine",
+    "back": "die Maschine"
+  },
+  {
+    "front": "the city",
+    "back": "die Stadt"
+  },
+  {
+    "front": "the night",
+    "back": "die Nacht"
+  },
+  {
+    "front": "the disco",
+    "back": "die Disco"
+  },
+  {
+    "front": "the music",
+    "back": "die Musik"
+  },
+  {
+    "front": "the freedom",
+    "back": "die Freiheit"
+  },
+  {
+    "front": "the wall",
+    "back": "die Wand"
+  },
+  {
+    "front": "the princess",
+    "back": "die Prinzessin"
+  },
+  {
+    "front": "the piece of news",
+    "back": "die Neuigkeit"
+  },
+  {
+    "front": "the baby",
+    "back": "das Baby"
+  },
+  {
+    "front": "the bed",
+    "back": "das Bett"
+  },
+  {
+    "front": "the glass",
+    "back": "das Glas"
+  },
+  {
+    "front": "the window",
+    "back": "das Fenster"
+  },
+  {
+    "front": "the toy",
+    "back": "das Spielzeug"
+  },
+  {
+    "front": "the car",
+    "back": "das Auto"
+  },
+  {
+    "front": "the picture",
+    "back": "das Bild"
+  },
+  {
+    "front": "the lunch",
+    "back": "das Mittagessen"
+  },
+  {
+    "front": "the vegetables",
+    "back": "das Gemüse"
+  },
+  {
+    "front": "the water",
+    "back": "das Wasser"
+  },
+  {
+    "front": "the beer",
+    "back": "das Bier"
+  },
+  {
+    "front": "the video",
+    "back": "das Video"
+  },
+  {
+    "front": "the mobile phone",
+    "back": "das Handy"
+  },
+  {
+    "front": "the song",
+    "back": "das Lied"
+  },
+  {
+    "front": "the horse",
+    "back": "das Pferd"
+  },
+  {
+    "front": "the face",
+    "back": "das Gesicht"
+  },
+  {
+    "front": "the light",
+    "back": "das Licht"
+  },
+  {
+    "front": "the secret",
+    "back": "das Geheimnis"
+  },
+  {
+    "front": "the paradise",
+    "back": "das Paradies"
+  },
+  {
+    "front": "the pleasure",
+    "back": "das Vergnügen"
+  },
+  {
+    "front": "the towel",
+    "back": "das Handtuch"
+  },
+  {
+    "front": "the book",
+    "back": "das Buch"
+  },
+  {
+    "front": "outer space",
+    "back": "das All"
+  }
+]
