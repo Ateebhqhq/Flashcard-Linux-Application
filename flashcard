@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/ateeb/flashcard-app/node_modules/electron/dist/electron /home/ateeb/flashcard-app/ >/dev/null 2>&1 &

@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>All Cards</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      display: block;
+      padding: 20px;
+    }
+    .card-item {
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 10px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .card-item span {
+      flex-grow: 1;
+      margin-right: 10px;
+    }
+    .card-item button {
+      background-color: #dc3545;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h2>Your Flashcards</h2>
+  <div id="card-list">
+    <!-- Cards will be loaded here -->
+  </div>
+  <script src="list.js"></script>
+</body>
+</html>
